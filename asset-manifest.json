@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-blended-4/static/css/main.c3d5249d.css",
-    "main.js": "/react-blended-4/static/js/main.bb979555.js",
+    "main.js": "/react-blended-4/static/js/main.cff6c35a.js",
     "index.html": "/react-blended-4/index.html",
     "main.c3d5249d.css.map": "/react-blended-4/static/css/main.c3d5249d.css.map",
-    "main.bb979555.js.map": "/react-blended-4/static/js/main.bb979555.js.map"
+    "main.cff6c35a.js.map": "/react-blended-4/static/js/main.cff6c35a.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.bb979555.js"
+    "static/js/main.cff6c35a.js"
   ]
 }
