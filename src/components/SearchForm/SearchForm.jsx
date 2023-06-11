@@ -4,6 +4,7 @@ import { FiSearch } from 'react-icons/fi';
 import { FormBtn, InputSearch, SearchFormStyled } from './SearchForm.styled';
 
 export class SearchForm extends Component {
+  
   state = {
     query: '',
   };
@@ -25,6 +26,8 @@ export class SearchForm extends Component {
       query: '',
     });
   };
+
+
   render() {
     const { query } = this.state;
 
